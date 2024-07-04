@@ -1,1 +1,1 @@
-## Put the mod you want(.py) in the mode file
+## Put the mod you want(.py) in the mods file
