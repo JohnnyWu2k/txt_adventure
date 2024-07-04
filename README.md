@@ -6,5 +6,5 @@
 ### Can create your own maps by using the character 
 ## Sounds
 ### Can make your own sound effetcs
-## Mods   
+## Mods   [Click me](https://github.com/JohnnyWu2k/txt_adventure/tree/mods)
 ### Can put the mods you want to effect the game
