@@ -1,3 +1,5 @@
+# Download
+### Type " git clone https://github.com/JohnnyWu2k/txt_adventure.git " in your file
 # Setup
 ### Run "install_and_run" until it opens the gui
 ### If it does, you can use start.bat to be the launcher
